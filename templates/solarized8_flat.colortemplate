@@ -123,7 +123,7 @@ Include: _dark_terminal.colortemplate
 # }}}
 # Base groups (dark) {{{
 ColorColumn          none              base02
-Conceal              blue              none
+Conceal              base3             none
 CursorColumn         none              base02
 Directory            blue              none
 EndOfBuffer          none              none
